@@ -45,7 +45,7 @@ nodes数组中元素属性比较复杂，下面解释下。
 {
   "nodes":[
    	{
-   		"name":"楼盘码",//自定义属性，节点名称
+   		"name":"楼盘码",/*自定义属性，节点名称*/
    		"group":2,//分组，暂时没明白做什么用的
    		"class":"node",//节点的class属性
    		"tourl":"http://www.iloushi.cn/m/loupanma/",//自定义属性，节点点击后跳转的url
